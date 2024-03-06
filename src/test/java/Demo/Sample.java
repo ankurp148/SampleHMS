@@ -21,7 +21,7 @@ public class Sample {
 	
 	public void method5_Test()
 	{
-		System.out.println("====TEST SCRIPT 15====");
+		System.out.println("====TEST SCRIPT 15===");
 	}
 	
 	@Test (groups = "system")
