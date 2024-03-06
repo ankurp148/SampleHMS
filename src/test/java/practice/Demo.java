@@ -8,7 +8,7 @@ public class Demo
 	
 	public void method1_Test()
 	{
-		System.out.println("====TEST SCRIPT 01====");
+		System.out.println("====Papdi Chat====");
 	}
 	
 	@Test(groups = "system")
