@@ -8,7 +8,7 @@ public class Demo
 	
 	public void method1_Test()
 	{
-		System.out.println("====TEST SCRIPT 11====");
+		System.out.println("====garamMasala====");
 	}
 	
 	@Test(groups = "system")
