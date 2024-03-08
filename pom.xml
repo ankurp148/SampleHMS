@@ -70,7 +70,7 @@
 							<version>3.2.5</version>
 							<configuration>
 								<suiteXmlFiles>
-									<suiteXmlFile>TESTING.xml</suiteXmlFile>
+									<suiteXmlFile>SmokeSuite.xml</suiteXmlFile>
 								</suiteXmlFiles>
 							</configuration>
 						</plugin>
