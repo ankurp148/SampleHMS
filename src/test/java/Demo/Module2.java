@@ -2,7 +2,7 @@ package Demo;
 
 import org.testng.annotations.Test;
 
-public class Sample {
+public class Module2 {
 	@Test (groups = "system")
 	
 	public void method3_Test()

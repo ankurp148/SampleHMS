@@ -2,7 +2,7 @@ package practice;
 
 import org.testng.annotations.Test;
 
-public class Demo 
+public class Module3 
 {
 	@Test(groups = "smoke")
 	

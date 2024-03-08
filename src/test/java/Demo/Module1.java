@@ -2,14 +2,8 @@ package Demo;
 
 import org.testng.annotations.Test;
 
-public class Demo 
+public class Module1 
 {
-	@Test(groups = "smoke")
-	
-	public void method1_Test()
-	{
-		System.out.println("hiii");
-	}
 	
 	@Test(groups = "system")
 	
