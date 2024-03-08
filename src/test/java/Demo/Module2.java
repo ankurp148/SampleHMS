@@ -28,7 +28,7 @@ public class Module2 {
 	
 	public void method6_Test()
 	{
-		System.out.println("====TEST SCRIPT 16====");
+		System.out.println("===TEST SCRIPT 16===");
 	}
 
 
